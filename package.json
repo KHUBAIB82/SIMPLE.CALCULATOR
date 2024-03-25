@@ -1,0 +1,19 @@
+{
+  "name": "first890-simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple caculator with typescript, Node.js and inquirer",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khubaib hassan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
